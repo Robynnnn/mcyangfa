@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-/dist
 /sso-dist
 vue.config.js
 pam-webcli-app.tar
